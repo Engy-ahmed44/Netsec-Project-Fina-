@@ -1,0 +1,17 @@
+{
+  "request": {},
+  "grant": {
+    "G19.txt": {
+      "mahmoud": {
+        "ip": "127.0.0.1",
+        "port": 3001
+      }
+    }
+  },
+  "private": {
+    "G19.txt": {
+      "owner": "engy",
+      "path": "shared-engy\\G19.txt"
+    }
+  }
+}
